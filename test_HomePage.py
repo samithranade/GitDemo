@@ -85,3 +85,10 @@ def test3():
     print("My first line of modified code to in Git demo2")
     print("My first line of modified code to in Git demo3")
     print("My first line of modified code to in Git demo4")
+    
+    
+def test3Trainer():        
+    print("My first line of modified code to in Git demo")
+    print("My first line of modified code to in Git demo2")
+    print("My first line of modified code to in Git demo3")
+    print("My first line of modified code to in Git demo4")
