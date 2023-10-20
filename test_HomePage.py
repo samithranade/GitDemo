@@ -50,6 +50,10 @@ class TestHomePage(BaseClass):
         print(message)
         log.info("Get success message: ")
         assert "Success" in message
+        print("My first line of modified code to in Git Trainer 1")
+        print("My first line of modified code to in Git Trainer 2")
+        print("My first line of modified code to in Git Trainer 3")
+        print("My first line of modified code to in Git Trainer 4")
 
         self.driver.refresh()
 
