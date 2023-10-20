@@ -66,5 +66,22 @@ class TestHomePage(BaseClass):
     def getData(self, request):
         return request.param
         
-        
+def test():        
     print("My first line of modified code to in Git demo")
+    print("My first line of modified code to in Git demo2")
+    print("My first line of modified code to in Git demo3")
+    print("My first line of modified code to in Git demo4")
+    
+
+def test2():        
+    print("My first line of modified code to in Git demo")
+    print("My first line of modified code to in Git demo2")
+    print("My first line of modified code to in Git demo3")
+    print("My first line of modified code to in Git demo4")
+    
+
+def test3():        
+    print("My first line of modified code to in Git demo")
+    print("My first line of modified code to in Git demo2")
+    print("My first line of modified code to in Git demo3")
+    print("My first line of modified code to in Git demo4")
