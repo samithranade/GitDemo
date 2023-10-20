@@ -1,0 +1,11 @@
+def test4():        
+    print("My first line of modified code to in Git demo")
+    print("My first line of modified code to in Git demo2")
+    print("My first line of modified code to in Git demo3")
+    print("My first line of modified code to in Git demo4")
+
+def test5():        
+    print("My first line of modified code to in Git demo")
+    print("My first line of modified code to in Git demo2")
+    print("My first line of modified code to in Git demo3")
+    print("My first line of modified code to in Git demo4")
